@@ -1,5 +1,6 @@
 {
   "name": "ScariOS",
+  "iconURL": "https://ljjb29.github.io/ScariOS/icon.png",
   "apps": [
     {
       "name": "Spotify++",
@@ -23,3 +24,4 @@
     }
   ]
 }
+
