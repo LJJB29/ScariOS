@@ -4,8 +4,10 @@
     {
       "name": "Spotify++",
       "bundleID": "com.spotify.client",
-      "version": "8.8.5",
-      "downloadURL": "https://YOUR_GITHUB_USERNAME.github.io/ScariOS/ipas/Spotify++.ipa"
+      "version": "8.8.9-9.0.26",
+      "downloadURL": "https://www.mediafire.com/file/r0zw9jhx0xkj64k/EeveeSpotify-5.8.8-9.0.26.ipa/file",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/IMG_2227.png",
+      "description": "Spotify++ is a tweaked version of Spotify with premium features unlocked, including unlimited skips and no ads."
     }
   ]
 }
