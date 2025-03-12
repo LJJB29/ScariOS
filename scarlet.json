@@ -1,0 +1,11 @@
+{
+  "name": "Scarlet IPA Repository",
+  "apps": [
+    {
+      "name": "Spotify++",
+      "bundleID": "com.spotify.client",
+      "version": "8.8.5",
+      "downloadURL": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Scarlet-IPAs/main/ipas/Spotify++_v8.8.5.ipa"
+    }
+  ]
+}
