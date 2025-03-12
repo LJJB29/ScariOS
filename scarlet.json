@@ -24,32 +24,32 @@
     },
     {
       "name": "ezfn 7.40",
-      "bundleID": "com.ezfn.app7",
+      "bundleID": "com.fortnite.epicgames",
       "version": "7.40",
       "downloadURL": "https://www.dropbox.com/scl/fi/8bqhma5gaeec8k1gr8dkq/EzFN-7.40.ipa?rlkey=kgeuf85hoblwdea0khtlu1ulu&st=bmphmikc&dl=1",
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn740.png",
       "description": "ezfn 7.40 is a modified version of Fortnite with custom skins and additional perks.",
-      "creators": ["ezfn Dev Team"],
-      "category": "Game Mods"
+      "creators": ["EzFN Team"],
+      "category": "Tweaked Apps"
     },
     {
       "name": "ezfn 10.00",
-      "bundleID": "com.ezfn.app10",
+      "bundleID": "com.fortnite.epicgames",
       "version": "10.00",
       "downloadURL": "https://www.dropbox.com/scl/fi/aazjyo2ly5sd3geuog41o/EzFN-10.0.ipa?rlkey=s438j812m22jz4dq2iyxmkpdk&st=cysldenx&dl=1",
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn1000.png",
       "description": "ezfn 10.00 is the latest version of the Fortnite mod with new custom skins, unlimited V-Bucks, and other powerful tools.",
-      "creators": ["ezfn Dev Team"],
-      "category": "Game Mods"
+      "creators": ["EzFN Team"],
+      "category": "Tweaked Apps"
     },
     {
       "name": "iTorrent",
-      "bundleID": "com.itorrent.app",
+      "bundleID": "com.itorrent.client",
       "version": "Latest",
-      "downloadURL": "https://www.dropbox.com/scl/fi/ngsvzq2q869cehsr918uw/iTorrent.ipa?rlkey=apvi1sh798zlihezcw1g336n2&st=lseogsqi&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ngsvzq2q869cehsr918uw/iTorrent.ipa?rlkey=apvi1sh798zlihezcw1g336n2&st=lfajyadd&dl=1",
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/itorrent.png",
       "description": "iTorrent is a modified version of the popular torrent client, optimized for easy torrent downloading directly on your iOS device.",
-      "creators": ["iTorrent Dev Team"],
+      "creators": ["iTorrent Team"],
       "category": "Tweaked Apps"
     }
   ]
