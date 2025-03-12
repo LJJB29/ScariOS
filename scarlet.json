@@ -21,7 +21,26 @@
       "description": "BHTikTok is a modified version of TikTok with premium and region-unlocking features.",
       "creators": ["BHTikTok Dev Team"],
       "category": "Tweaked Apps"
+    },
+    {
+      "name": "ezfn 7.40",
+      "bundleID": "com.ezfn.app7",
+      "version": "7.40",
+      "downloadURL": "https://www.dropbox.com/scl/fi/somefileurl/ezfn7.40.ipa?rlkey=samplekey&st=sampledate&dl=1",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn740.png",
+      "description": "ezfn 7.40 is a modified version of Fortnite that provides enhanced features for players, such as custom skins and additional perks.",
+      "creators": ["ezfn Dev Team"],
+      "category": "Game Mods"
+    },
+    {
+      "name": "ezfn 10.00",
+      "bundleID": "com.ezfn.app10",
+      "version": "10.00",
+      "downloadURL": "https://www.dropbox.com/scl/fi/somefileurl/ezfn10.00.ipa?rlkey=samplekey&st=sampledate&dl=1",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn1000.png",
+      "description": "ezfn 10.00 is the latest version of the Fortnite mod with new custom skins, unlimited V-Bucks, and other powerful tools.",
+      "creators": ["ezfn Dev Team"],
+      "category": "Game Mods"
     }
   ]
 }
-
