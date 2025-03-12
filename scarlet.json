@@ -7,7 +7,17 @@
       "version": "8.8.9-9.0.26",
       "downloadURL": "https://www.dropbox.com/scl/fi/fz2mgcrvpxi68shovf4nk/Spotify.ipa?rlkey=94e4t9sqjmfqzib8gs2mf3hgc&st=4tk1euij&dl=1",
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/IMG_2227.png",
-      "description": "Spotify++ is a tweaked version of Spotify with premium features unlocked, including unlimited skips and no ads."
+      "description": "Spotify++ is a tweaked version of Spotify with premium features unlocked, including unlimited skips and no ads.",
+      "creators": ["EeveeSpotify Team"]
+    },
+    {
+      "name": "BHTikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "version": "Latest",
+      "downloadURL": "https://www.dropbox.com/scl/fi/1afgn2wuo2hm0639ygwg9/BHTikTok.ipa?rlkey=lyta49amodna1zkn9auyvgsq7&st=saz1qqy8&dl=1",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/tiktok.png",
+      "description": "BHTikTok is a modified version of TikTok with premium and region-unlocking features.",
+      "creators": ["BHTikTok Dev Team"]
     }
   ]
 }
