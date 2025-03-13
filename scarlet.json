@@ -10,7 +10,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/IMG_2227.png",
       "description": "Spotify++ is a tweaked version of Spotify with premium features unlocked, including unlimited skips and no ads.",
       "creators": ["EeveeSpotify Team"],
-      "category": "Tweaked Apps"
+      "category": "Tweaked Apps",
+      "whatsNew": "Fixed crashes on iOS 14 and above. Added support for high-quality audio streaming."
     },
     {
       "name": "BHTikTok",
@@ -20,7 +21,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/tiktok.png",
       "description": "BHTikTok is a modified version of TikTok with premium and region-unlocking features.",
       "creators": ["BHTikTok Dev Team"],
-      "category": "Tweaked Apps"
+      "category": "Tweaked Apps",
+      "whatsNew": "Improved region-unlocking feature, now supports more countries. Fixed playback issues with certain videos."
     },
     {
       "name": "EzFN 10.00",
@@ -30,7 +32,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn10.png",
       "description": "EzFN 10.00 is a private Fortnite server allowing custom skins and features.",
       "creators": ["EzFN Dev Team"],
-      "category": "Hacked Games"
+      "category": "Hacked Games",
+      "whatsNew": "Introduced new skins and enhanced custom gameplay options. Fixed server-side performance issues."
     },
     {
       "name": "EzFN 7.40",
@@ -40,7 +43,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn7.png",
       "description": "EzFN 7.40 is an older version of the private Fortnite server with classic gameplay features.",
       "creators": ["EzFN Dev Team"],
-      "category": "Hacked Games"
+      "category": "Hacked Games",
+      "whatsNew": "Bug fixes and compatibility improvements for older devices. Added support for classic emotes."
     },
     {
       "name": "iTorrent",
@@ -50,7 +54,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/itorrent.png",
       "description": "iTorrent is a powerful torrent client for iOS, allowing fast and secure torrent downloads.",
       "creators": ["iTorrent Team"],
-      "category": "Tweaked Apps"
+      "category": "Tweaked Apps",
+      "whatsNew": "Added support for magnet links. Fixed download speed throttling bug."
     },
     {
       "name": "Facebook Wolf",
@@ -60,7 +65,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/facebookwolf.png",
       "description": "Facebook Wolf is a tweaked version of Facebook with ad-blocking and privacy features.",
       "creators": ["Facebook Wolf Devs"],
-      "category": "Tweaked Apps"
+      "category": "Tweaked Apps",
+      "whatsNew": "Introduced a new stealth mode that hides your online status. Improved ad-blocking capabilities."
     },
     {
       "name": "Pyoncord",
@@ -70,7 +76,8 @@
       "iconURL": "https://ljjb29.github.io/ScariOS/icons/pyoncord.png",
       "description": "Pyoncord is a tweaked version of Discord with enhanced customization and moderation tools.",
       "creators": ["Pyoncord Devs"],
-      "category": "Tweaked Apps"
+      "category": "Tweaked Apps",
+      "whatsNew": "Added new moderation tools for server admins. Fixed issue where messages would not load correctly on iOS 15."
     },
     {
       "name": "Old OS",
@@ -80,7 +87,8 @@
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/OldOS_1.0.18.png",
       "description": "Old OS is a nostalgic iOS experience that replicates the classic iOS interface and features.",
       "creators": ["Old OS Team"],
-      "category": "Tweaked Apps"
+      "category": "Tweaked Apps",
+      "whatsNew": "Added new iOS 4 theme. Bug fixes for smooth navigation on iPhone 6 and earlier."
     }
   ]
 }
