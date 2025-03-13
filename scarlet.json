@@ -23,6 +23,16 @@
       "category": "Tweaked Apps"
     },
     {
+      "name": "Facebook Wolf",
+      "bundleID": "com.facebook.Facebook",
+      "version": "Latest",
+      "downloadURL": "https://www.dropbox.com/scl/fi/abcd1234xyz/FacebookWolf.ipa?dl=1",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/facebookwolf.png",
+      "description": "Facebook Wolf is a tweaked version of Facebook with premium features like ad-blocking and privacy enhancements.",
+      "creators": ["Wolf Modding Team"],
+      "category": "Tweaked Apps"
+    },
+    {
       "name": "ezfn 7.40",
       "bundleID": "com.fortnite.epicgames",
       "version": "7.40",
