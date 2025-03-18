@@ -25,70 +25,15 @@
       "whatsNew": "Improved region-unlocking feature, now supports more countries. Fixed playback issues with certain videos."
     },
     {
-      "name": "EzFN 10.00",
-      "bundleID": "com.epicgames.fortnite",
-      "version": "10.00",
-      "downloadURL": "https://www.dropbox.com/scl/fi/aazjyo2ly5sd3geuog41o/EzFN-10.0.ipa?dl=1",
-      "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn10.png",
-      "description": "EzFN 10.00 is a private Fortnite server allowing custom skins and features.",
-      "creators": ["EzFN Dev Team"],
-      "category": "Hacked Games",
-      "whatsNew": "Introduced new skins and enhanced custom gameplay options. Fixed server-side performance issues."
-    },
-    {
-      "name": "EzFN 7.40",
-      "bundleID": "com.epicgames.fortnite",
-      "version": "7.40",
-      "downloadURL": "https://www.dropbox.com/scl/fi/8bqhma5gaeec8k1gr8dkq/EzFN-7.40.ipa?dl=1",
-      "iconURL": "https://ljjb29.github.io/ScariOS/icons/ezfn7.png",
-      "description": "EzFN 7.40 is an older version of the private Fortnite server with classic gameplay features.",
-      "creators": ["EzFN Dev Team"],
-      "category": "Hacked Games",
-      "whatsNew": "Bug fixes and compatibility improvements for older devices. Added support for classic emotes."
-    },
-    {
-      "name": "iTorrent",
-      "bundleID": "com.itorrent.client",
+      "name": "YouTube++",
+      "bundleID": "com.google.ios.youtube",
       "version": "Latest",
-      "downloadURL": "https://www.dropbox.com/scl/fi/ngsvzq2q869cehsr918uw/iTorrent.ipa?dl=1",
-      "iconURL": "https://ljjb29.github.io/ScariOS/icons/itorrent.png",
-      "description": "iTorrent is a powerful torrent client for iOS, allowing fast and secure torrent downloads.",
-      "creators": ["iTorrent Team"],
+      "downloadURL": "https://s3cdn.dbservices.to/ipas/fb7509753fc8d2a0b32b436ce3160923ee287c31.ipa?verify=1742283930-BBP7dM0vrELDAe1ZQJmKp%2FkePc9p9xdUbJKOUyX5Z6s%3D",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/youtubepp.png",
+      "description": "YouTube++ is a tweaked version of YouTube with features like background playback, ad-blocking, and video downloads.",
+      "creators": ["YouTube++ Dev Team"],
       "category": "Tweaked Apps",
-      "whatsNew": "Added support for magnet links. Fixed download speed throttling bug."
-    },
-    {
-      "name": "Facebook Wolf",
-      "bundleID": "com.facebook.wolf",
-      "version": "Latest",
-      "downloadURL": "https://www.dropbox.com/scl/fi/div5kaorw0y3wqkvzvj9z/facebookwolf.ipa?dl=1",
-      "iconURL": "https://ljjb29.github.io/ScariOS/icons/facebookwolf.png",
-      "description": "Facebook Wolf is a tweaked version of Facebook with ad-blocking and privacy features.",
-      "creators": ["Facebook Wolf Devs"],
-      "category": "Tweaked Apps",
-      "whatsNew": "Introduced a new stealth mode that hides your online status. Improved ad-blocking capabilities."
-    },
-    {
-      "name": "Pyoncord",
-      "bundleID": "com.discord.pyoncord",
-      "version": "Latest",
-      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=3829718905a52537c7e07199fda8f613",
-      "iconURL": "https://ljjb29.github.io/ScariOS/icons/pyoncord.png",
-      "description": "Pyoncord is a tweaked version of Discord with enhanced customization and moderation tools.",
-      "creators": ["Pyoncord Devs"],
-      "category": "Tweaked Apps",
-      "whatsNew": "Added new moderation tools for server admins. Fixed issue where messages would not load correctly on iOS 15."
-    },
-    {
-      "name": "Old OS",
-      "bundleID": "com.oldos.app",
-      "version": "1.0.18",
-      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=07e78be885420951a34e80615e402dc3",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/OldOS_1.0.18.png",
-      "description": "Old OS is a nostalgic iOS experience that replicates the classic iOS interface and features.",
-      "creators": ["Old OS Team"],
-      "category": "Tweaked Apps",
-      "whatsNew": "Added new iOS 4 theme. Bug fixes for smooth navigation on iPhone 6 and earlier."
+      "whatsNew": "Added support for higher-quality downloads. Improved stability on iOS 15 and above."
     },
     {
       "name": "Minecraft",
