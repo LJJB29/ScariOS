@@ -89,6 +89,17 @@
       "creators": ["Old OS Team"],
       "category": "Tweaked Apps",
       "whatsNew": "Added new iOS 4 theme. Bug fixes for smooth navigation on iPhone 6 and earlier."
+    },
+    {
+      "name": "Minecraft",
+      "bundleID": "com.mojang.minecraftpe",
+      "version": "Latest",
+      "downloadURL": "https://s3cdn.dbservices.to/ipas/fd4246caba783a9e0ace210c681d285e6712ecbc.ipa?verify=1742283790-%2BFr%2BeUHUTXpcNv3PaKCmQA1N2oBo%2BDG%2FvMAX2K8L%2BZU%3D",
+      "iconURL": "https://ljjb29.github.io/ScariOS/icons/minecraft.png",
+      "description": "Minecraft is a sandbox game with unlimited building and exploration possibilities. This version includes modded features.",
+      "creators": ["Minecraft Modding Community"],
+      "category": "Hacked Games",
+      "whatsNew": "Added new skins, custom maps, and expanded server support."
     }
   ]
 }
